@@ -27,6 +27,8 @@
     'category': 'Example',
     'version': '0.0.1',
     'depends': [
+        'account_accountant',
+        'document',
     ],
     'data': [
         # Security
